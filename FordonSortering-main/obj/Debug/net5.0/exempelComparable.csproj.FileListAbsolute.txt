@@ -1,0 +1,16 @@
+C:\Users\Admin\Downloads\FordonSortering-main\FordonSortering-main\bin\Debug\net5.0\exempelComparable.exe
+C:\Users\Admin\Downloads\FordonSortering-main\FordonSortering-main\bin\Debug\net5.0\exempelComparable.deps.json
+C:\Users\Admin\Downloads\FordonSortering-main\FordonSortering-main\bin\Debug\net5.0\exempelComparable.runtimeconfig.json
+C:\Users\Admin\Downloads\FordonSortering-main\FordonSortering-main\bin\Debug\net5.0\exempelComparable.runtimeconfig.dev.json
+C:\Users\Admin\Downloads\FordonSortering-main\FordonSortering-main\bin\Debug\net5.0\exempelComparable.dll
+C:\Users\Admin\Downloads\FordonSortering-main\FordonSortering-main\bin\Debug\net5.0\ref\exempelComparable.dll
+C:\Users\Admin\Downloads\FordonSortering-main\FordonSortering-main\bin\Debug\net5.0\exempelComparable.pdb
+C:\Users\Admin\Downloads\FordonSortering-main\FordonSortering-main\obj\Debug\net5.0\exempelComparable.csproj.AssemblyReference.cache
+C:\Users\Admin\Downloads\FordonSortering-main\FordonSortering-main\obj\Debug\net5.0\exempelComparable.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Downloads\FordonSortering-main\FordonSortering-main\obj\Debug\net5.0\exempelComparable.AssemblyInfoInputs.cache
+C:\Users\Admin\Downloads\FordonSortering-main\FordonSortering-main\obj\Debug\net5.0\exempelComparable.AssemblyInfo.cs
+C:\Users\Admin\Downloads\FordonSortering-main\FordonSortering-main\obj\Debug\net5.0\exempelComparable.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\FordonSortering-main\FordonSortering-main\obj\Debug\net5.0\exempelComparable.dll
+C:\Users\Admin\Downloads\FordonSortering-main\FordonSortering-main\obj\Debug\net5.0\ref\exempelComparable.dll
+C:\Users\Admin\Downloads\FordonSortering-main\FordonSortering-main\obj\Debug\net5.0\exempelComparable.pdb
+C:\Users\Admin\Downloads\FordonSortering-main\FordonSortering-main\obj\Debug\net5.0\exempelComparable.genruntimeconfig.cache
